@@ -6,5 +6,5 @@
 
 <p align="center">
   <strong>Authentication that takes your applications further.</strong><br/>
-  Authentifly is a modern authentication platform for securely managing application users, access and authentication..
+  Authentifly is a modern authentication platform for securely managing application users, access and authentication.
 </p>
