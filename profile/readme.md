@@ -1,6 +1,6 @@
 <p align="center">
-<a href="https://usecloak.app" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/authentifly/.github/refs/heads/main/Authentifly.png" width="300" alt="Cloak Platforms" />
+<a target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/authentifly/.github/refs/heads/main/Authentifly.png" width="300"/>
 </a>
 </p>
 
